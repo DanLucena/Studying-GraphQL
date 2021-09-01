@@ -1,0 +1,10 @@
+div{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  .teste{
+    display: block;
+    margin-right: 1rem;
+  }
+}
